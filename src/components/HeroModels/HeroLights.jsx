@@ -7,7 +7,7 @@ const HeroLights = () => {
       <spotLight
         position={[2, 5, 6]}
         angle={0.15}
-        intensity={200}
+        intensity={100}
         color={"white"}
         penumbra={0.2}
       />
